@@ -1,6 +1,4 @@
 # test
-test
-hello
-dog
-cat
-pet
+x = 1
+if x == 1:
+  print(hello world)
